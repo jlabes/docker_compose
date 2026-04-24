@@ -8,11 +8,11 @@ Este projeto demonstra:
 
 ---
 
-## Environment variables
+## Variáveis de Ambiente
 
-Define the following environment variables in the .env file:
+Defina as seguintes variáveis no arquivo .env:
 
-### Mandatory
+### Obrigatórias
 
 - MYSQL_ROOT_PASSWORD
 - MYSQL_DATABASE
